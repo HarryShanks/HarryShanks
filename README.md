@@ -28,7 +28,7 @@ Pronouns He/Him
 [Pokemon page for Drampa](https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon))
 
 ![A photo of the rook from chess](Rook.jpg)
-
+![A photo of the rook, the bird](RoOk.jpg)
 ## Contact Details
 
 0666678: Harry
