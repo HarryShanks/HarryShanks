@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**HarryShanks/HarryShanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Harry Shanks
+Hello my name is Harry Shanks and I like Coding
+## Facts
+1. My hometown is New Zealand
 
-Here are some ideas to get you started:
+2. My Mountain name is Mt Eden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. My Ocean is Pt Chev Beach
+
+4. My middle name is Jack
+
+Pronouns He/Him
+## Prior Experince
+*Prior Experince with Python* (Can print and code variables)
+
+**I can play chess and am quite good at it**
+
+*I can code in Scratch*
+
+**Markdown**
+
+## Hobbies
+- Pokemon
+- Drama
+- Coding
+
+[Pokemon page for Drampa](https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon))
+
+![A photo of the rook from chess](Rook.jpg)
+
+## Contact Details
+
+0666678: Harry
+
+1267890: My Dog
+
