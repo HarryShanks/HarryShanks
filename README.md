@@ -14,11 +14,15 @@ Pronouns He/Him
 ## Prior Experince
 *Prior Experince with Python* (Can print and code variables)
 
+*Plus has coded a lot in visual code studuio
+
 **I can play chess and am quite good at it**
 
 *I can code in Scratch*
 
 **Markdown**
+**Html**
+**Css**
 
 ## Hobbies
 - Pokemon
